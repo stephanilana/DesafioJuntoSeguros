@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioJuntoSeguros", "Desa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{D771835A-FB4A-4459-8F8A-4B9FFC7DCE6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testes.Application", "Testes.Application\Testes.Application.csproj", "{CBAA2B60-7E54-4749-B9FF-158C420582B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testes.Application", "Testes.Application\Testes.Application.csproj", "{CBAA2B60-7E54-4749-B9FF-158C420582B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4387AC6F-9533-4F64-8CA1-CEEF7583918E}"
+	ProjectSection(SolutionItems) = preProject
+		Comments.md = Comments.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
