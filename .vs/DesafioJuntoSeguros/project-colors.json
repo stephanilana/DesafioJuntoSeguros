@@ -20,7 +20,12 @@
       "ProjectGuid": "cbaa2b60-7e54-4749-b9ff-158c420582b9",
       "DisplayName": "Testes.Application",
       "ColorIndex": 2
+    },
+    "4387ac6f-9533-4f64-8ca1-ceef7583918e": {
+      "ProjectGuid": "4387ac6f-9533-4f64-8ca1-ceef7583918e",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

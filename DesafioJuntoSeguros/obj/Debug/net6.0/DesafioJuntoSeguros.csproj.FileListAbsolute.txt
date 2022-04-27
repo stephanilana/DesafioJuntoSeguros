@@ -83,3 +83,4 @@ C:\JuntoSeguro\DesafioJuntoSeguros\DesafioJuntoSeguros\bin\Debug\net6.0\Azure.Co
 C:\JuntoSeguro\DesafioJuntoSeguros\DesafioJuntoSeguros\bin\Debug\net6.0\Azure.Core.dll
 C:\JuntoSeguro\DesafioJuntoSeguros\DesafioJuntoSeguros\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\JuntoSeguro\DesafioJuntoSeguros\DesafioJuntoSeguros\bin\Debug\net6.0\System.Memory.Data.dll
+C:\JuntoSeguro\DesafioJuntoSeguros\DesafioJuntoSeguros\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

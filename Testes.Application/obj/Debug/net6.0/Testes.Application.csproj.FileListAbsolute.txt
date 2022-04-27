@@ -172,3 +172,4 @@ C:\JuntoSeguro\DesafioJuntoSeguros\Testes.Application\obj\Debug\net6.0\Testes.Ap
 C:\JuntoSeguro\DesafioJuntoSeguros\Testes.Application\obj\Debug\net6.0\ref\Testes.Application.dll
 C:\JuntoSeguro\DesafioJuntoSeguros\Testes.Application\obj\Debug\net6.0\Testes.Application.pdb
 C:\JuntoSeguro\DesafioJuntoSeguros\Testes.Application\obj\Debug\net6.0\Testes.Application.genruntimeconfig.cache
+C:\JuntoSeguro\DesafioJuntoSeguros\Testes.Application\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

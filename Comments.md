@@ -23,3 +23,9 @@ Comando para execução do projeto
 ```
 dotnet run
 ```
+
+## 4. Comentário extra
+```
+Fiz toda a estrutura de autenticação de Token porém por algum motivo de configuração que não consegui descobrir estava dando erro na hora de autenticar o usuário.
+Mantive a estrutura no projeto, espero que seja considerado.
+```

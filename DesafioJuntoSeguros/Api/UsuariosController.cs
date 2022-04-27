@@ -1,6 +1,7 @@
 ﻿using DesafioJuntoSeguros.Application.DTOs;
 using DesafioJuntoSeguros.Application.ViewModels;
 using DesafioJuntoSeguros.Domain.Intefaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

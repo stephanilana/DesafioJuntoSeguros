@@ -44,6 +44,10 @@ namespace DesafioJuntoSeguros.Application.Services
             {
                 throw new Exception("Usuário já cadastrado com esse E-mail");
             }
+            if (_usuarioRepository.Get() != null && _usuarioRepository.Get().Exists(c => c.CPF == usuarioDto.CPF))
+            {
+                throw new Exception("Usuário já cadastrado com esse CPF");
+            }
 
             if (usuarioDto.Senha.Length < 6)
                 throw new Exception("A senha deve conter mais de 6 caracteres");
@@ -88,6 +92,10 @@ namespace DesafioJuntoSeguros.Application.Services
                 return null;
 
             usuario.Nome = usuarioDto.Nome;
+            if (_usuarioRepository.Get() != null && _usuarioRepository.Get().Exists(c => c.CPF == usuarioDto.CPF && c.Id != usuario.Id))
+            {
+                throw new Exception("Usuário já cadastrado com esse CPF");
+            }
             ValidarCPF(usuarioDto.CPF);
             usuario.CPF = usuarioDto.CPF;
             usuario.Email = usuarioDto.Email;
