@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e209090-248c-4c6b-a8f1-12871ef22894": {
+      "ProjectGuid": "0e209090-248c-4c6b-a8f1-12871ef22894",
+      "DisplayName": "DesafioJuntoSeguros",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "533005de-f7cb-4a45-a26a-d93b1e1bcb87": {
+      "ProjectGuid": "533005de-f7cb-4a45-a26a-d93b1e1bcb87",
+      "DisplayName": "Teste.Application",
+      "ColorIndex": 1
+    },
+    "cbaa2b60-7e54-4749-b9ff-158c420582b9": {
+      "ProjectGuid": "cbaa2b60-7e54-4749-b9ff-158c420582b9",
+      "DisplayName": "Testes.Application",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
